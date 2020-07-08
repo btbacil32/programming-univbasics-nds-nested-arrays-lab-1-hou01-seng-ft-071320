@@ -84,6 +84,6 @@ def matrix_update(matrix, column, row, new_value)
   # Return the updated matrix
   binding.pry
    # matrix_update(assembled_matrix, 0, 2, "Lemons")
-    
+
     
 end
