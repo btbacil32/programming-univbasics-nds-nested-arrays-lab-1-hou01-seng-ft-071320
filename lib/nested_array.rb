@@ -70,7 +70,7 @@ def sorted_matrix
 end
 
 def matrix_lookup(assembled_matrix, row, column)
-matrix_lookup = assembled_matrix[1][1]
+matrix_lookup = assembled_matrix[row][column]
 matrix_lookup
   
   
